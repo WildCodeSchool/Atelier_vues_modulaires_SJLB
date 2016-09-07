@@ -1,0 +1,68 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:100%;
+	font-family:inherit;
+	vertical-align:baseline;
+}
+:focus {
+	outline:0;
+}
+
+body * {font-family:inherit;}
+body {
+	font-family:Verdana,Helvetica,sans-serif;
+	height:100%;
+	font-size:62.5%;
+	color:#000;
+
+}
+ol, ul {
+	list-style:none;
+}
+table {
+	border-collapse:separate;
+	border-spacing:0;
+}
+caption, th, td {
+	text-align:left;
+	font-weight:normal;
+}
+td {vertical-align:top;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a {
+	text-decoration:none;
+	color:#007097;
+	cursor:pointer;
+}
+a:hover {
+	text-decoration:underline;
+	cursor:pointer;
+}
+input, textarea {
+	padding:1px 5px;
+	font-size:1.1em;
+}
+select {
+	z-index:1;
+	border:solid 1px #B0B2B2;
+	font-size:1.1em;
+}
+option {padding:1px 3px 0 3px;}
+button, submit {cursor:pointer;}
+
+strong {font-weight:bold;}
+em {font-style:italic;}
+
+.clear{clear:both;}
+
+/* PNG fix for all themes that uses PNG images on IE
+td, div,a,ul,form { behavior: url(css/iepngfix.htc) }
+img {behavior: url(css/iepngfix_img.htc);}
+ */
+

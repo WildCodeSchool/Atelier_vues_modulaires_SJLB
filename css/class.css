@@ -1,0 +1,24 @@
+.underline 	{ text-decoration: underline; }
+.strike 		{ text-decoration: line-through; }
+
+.text-left 	{ text-align: left; }
+.text-right 	{ text-align: right; }
+.text-center 	{ text-align: center; }
+.text-justify	{ text-align: justify; }
+
+.bold 		{ font-weight: bold; }
+.light 		{ font-weight: normal; }
+.italic 		{ font-style: italic; }
+.smallcaps 	{ font-variant: small-caps; }
+.uppercase 	{ text-transform: uppercase; }
+.lowercase 	{ text-transform: lowercase; }
+.capitalize 	{ text-transform: capitalize; }
+.no-underline{	text-decoration:none !important;}
+
+.block 		{display:block;}
+.center 		{display:block; margin-left:auto; margin-right:auto;}
+.left 		{float:left;}
+.right 		{float:right;}
+.clear 		{clear:both;}
+img.left 		{margin-right:20px;}
+img.right 		{margin-left:20px;}

@@ -1,0 +1,120 @@
+#sp_chemin {
+	font-size: 11px;
+	border-bottom: 1px solid #aaaaaa;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+#article ul.sp_theme, #article ul.sp_liste, #article ul.sp_qr,
+ul.sp_theme, ul.sp_liste, ul.sp_qr 
+{
+	margin-right: 20px;
+	padding: 0px;
+}
+	
+#article ul.sp_theme, 
+ul.sp_theme 
+{
+	float:left;
+	width: 40%;
+}
+	
+ul.sp_theme li, ul.sp_liste li, ul.sp_qr li 
+{
+	margin: 0px;
+	list-style-type: none;
+	background: url(/service-public/xsl/puce_r.gif) no-repeat 0 2px ;
+	padding-left: 10px;
+}
+	
+ul.sp_qr li {
+	background: url(/service-public/xsl/puce_rouge2.gif) no-repeat 0 2px ;
+	padding-left: 17px;
+	}
+	
+#sp_indexalpha {
+	clear:both;
+	height: 25px;
+	width: 100%;
+	}
+	
+#abcdaire {
+	width: 100%;
+	text-align: center;
+	height: 25px;
+	font-size: 1.1em;
+	}
+
+#sp_footer {
+	clear:both;
+	margin-top: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+.sp_ressource {
+	border: 1px solid #d1d1d1;
+	margin-bottom: 10px;
+	}
+
+.sp_ressource h2 {
+	margin: 0;
+	background-color: #d1d1d1;
+	height: 15px;
+	color: #3e3e3e;
+	font-size: 1em;
+	font-weight: bold;
+	padding-left: 5px;
+	font-family: Verdana;
+	margin-bottom: 3px;
+	}
+
+.sp_ressource h3 {
+	margin: 0;
+	font-family: Verdana;
+	font-size: 1.2em;
+	color: #000;
+	font-weight: normal;
+	padding-left: 5px;
+	}
+
+
+#colonneGauche .sp_ressource h2{
+    border: medium none;
+    color: #2B6EB4;
+    float: left;
+    font-family: trebuchet MS;
+    font-size: 137%;
+    font-weight: normal;
+    margin: 0;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+#colonneGauche .sp_ressource ul li{
+    background: url("../images/fleche.gif") no-repeat scroll 0 8px transparent;
+    line-height: 23px;
+    margin: 14px 0 0 20px;
+    padding-left: 10px;
+}
+
+#colonneGauche ul.sp_liste li{
+    background: url("../images/fleche.gif") no-repeat scroll 0 8px transparent;
+    line-height: 24px;
+    margin: 14px 0 0 20px;
+    padding-left: 10px;
+}
+
+.sp_ressource ul, .sp_ressource p {
+	margin-left: 5px;
+	}
+
+h3 p, li p {
+	font-size: 1em;
+	}
+
+
+
+.testdiv {
+	border: 1px solid red;
+}

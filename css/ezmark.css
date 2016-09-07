@@ -1,0 +1,14 @@
+/**
+ * CSS File for ezMark jQuery Plugin
+ *
+ **/
+.ez-hide { opacity: 0; filter:alpha(opacity=0); }
+.ez-checkbox {
+	background: transparent url('../images/carto/checkbox0.png') 0 1px no-repeat;
+	display:inline-block;
+	margin:0 5px;
+	float:left;
+}
+.ez-checkbox { zoom: 1; *display:inline; _height:30px; }
+.ez-checked { background: transparent url('../images/carto/checkbox2.png') 0 1px no-repeat; }
+

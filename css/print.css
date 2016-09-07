@@ -1,0 +1,24 @@
+@import url(reset.css);
+@import url(class.css);
+@import url(structure.css);
+
+body{
+		background-image:none;
+		background-color:#fff;
+}
+.entete{
+	width:100%;
+}
+#animationflash, #encartRecherche, #header, #menu, #ssMenu h2, #ssMenu ul, #liensDirects, #footer, #filAriane .menu_ariane .fl_ariane{
+		display:none !important;
+}
+
+/*.niveau4 {
+	display:block;
+}*/
+
+.entreeAnnuaire {
+	float:left;
+	border-top:1px dotted #2B6EB4;
+	border-bottom:0;
+}

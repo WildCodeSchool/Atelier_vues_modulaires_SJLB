@@ -1,0 +1,38 @@
+/*--------------------------------------------------------------------------------*/
+/*  Contenu                                                                       */
+/*--------------------------------------------------------------------------------*/
+
+/*** Contact */
+.form-contact{
+	width: 100%;
+}
+
+.form-contact label {
+	width: 100px;
+	display: block; 
+	float: left;
+}
+
+.form-contact p {
+	padding: 15px 0 0 0;
+	clear: both;
+}
+
+.form-contact input.input_long {
+	width: 300px;
+	display: block; 
+	float: left;
+}
+.form-contact textarea.input_long {
+	width: 600px;
+	height: 300px;
+	display: block; 
+	float: left;
+}
+.width100 {
+	width: 95% !important;
+}
+.focus {
+	margin-top:10px;
+	color:red;
+}

@@ -1,0 +1,30 @@
+ /* Règles CSS pour les mobiles */
+
+#animationflash  {
+	width:186%;
+}
+#animationflash #FlashID {
+    display:none;
+}
+/*	.home a {text-decoration:underline !important;}
+	.home {background:none;}
+	.home #footer {background:none;width:480px;color:#000;margin:-270px auto;padding-left:40px;}
+	.home #body-wrapper {background:none !important;width:480px;margin:auto;height:950px;overflow:hidden;}
+	.home #main {width:480px;}
+	.home #find {display:none;}
+	.home #top-menu {display:none;}
+	.home #home-frontpage {display:none;}
+	.home #home-presentation {display:none;}
+	.home #home-findmap {display:none;}
+	.home #home-quicklinks {display:none;}
+	.home .visuallyhidden {display:none;}
+	.home #footer-partners {display:none;}
+	.home #home-findform {padding-top:0;}
+	.home #home-animations {margin:-35px 0 0 25px;}
+	.home #footer a {color:#000;}
+	.home #footer #footer-container {width:480px;}
+	.home #footer .footer-menu, .home #footer #footer-menu h2 {display:none;}
+	.home #footer .footer-menu.sp,.home #footer .footer-menu.first {display:block !important;clear:both;float:none;border:0;height:auto;}
+	.home #footer .footer-menu img {display:none;}
+	.home #footer .footer-menu #footer-socialnetworks {display:none;}
+	.home #footer .footer-menu #footer-adress {display:none;}*/
